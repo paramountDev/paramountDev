@@ -1,6 +1,6 @@
 ![Header](https://i.postimg.cc/KjVWjtxK/1627104026-29-kartinkin-com-p-neonovii-fon-dlya-shapki-krasivo-30.jpg)
 
-## I am a Java Backend Developer
+## I am a Java Developer
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=JAVA)
