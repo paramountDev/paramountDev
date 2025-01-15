@@ -3,7 +3,7 @@
 ## I am a Java Backend Developer
 
 ### Languages and Tools
-![Java Core](https://img.shields.io/badge/-JavaCore-090909?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=JAVA)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring) 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-090909?style=for-the-badge&logo=Spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
@@ -14,4 +14,5 @@
 ![JWT](https://img.shields.io/badge/-JWT-090909?style=for-the-badge&logo=JWT)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger)
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sleepymanG)
