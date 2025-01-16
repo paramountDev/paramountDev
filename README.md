@@ -6,6 +6,8 @@
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=JAVA)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)
 ### Tools
+![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=Maven)
+![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring) 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-090909?style=for-the-badge&logo=Spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
@@ -15,7 +17,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![LiquiBase](https://img.shields.io/badge/-LiquiBase-090909?style=for-the-badge&logo=Liquibase)
 ![JUnit](https://img.shields.io/badge/-JUnit-090909?style=for-the-badge&logo=JUnit)
+![Mockito](https://img.shields.io/badge/-Mockito-090909?style=for-the-badge&logo=Mockito)
 ![MapStruct](https://img.shields.io/badge/-MapStruct-090909?style=for-the-badge&logo=MapStruct)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![MySql](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
