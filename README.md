@@ -14,6 +14,7 @@
 ![Jdbc](https://img.shields.io/badge/-Jdbc-090909?style=for-the-badge&logo=JDBC)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger)
 ![JWT](https://img.shields.io/badge/-JWT-090909?style=for-the-badge&logo=JWT)
+![BCrypt](https://img.shields.io/badge/-BCrypt-090909?style=for-the-badge&logo=BCrypt)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![LiquiBase](https://img.shields.io/badge/-LiquiBase-090909?style=for-the-badge&logo=Liquibase)
 ![JUnit](https://img.shields.io/badge/-JUnit-090909?style=for-the-badge&logo=JUnit)
