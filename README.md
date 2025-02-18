@@ -1,6 +1,6 @@
 ![Header](https://i.postimg.cc/KjVWjtxK/1627104026-29-kartinkin-com-p-neonovii-fon-dlya-shapki-krasivo-30.jpg)
 
-## Hello, my name is Dmytro Korzh and i am a Java Developer
+## Hello, my name is Dmytro Korzh and i am a Java Developer.
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=JAVA)
