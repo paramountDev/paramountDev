@@ -23,13 +23,13 @@
 
 ![Bukkit](https://img.shields.io/badge/-Bukkit-090909?style=for-the-badge&logo=Bukkit)
 ![Spigot](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
-![Paper](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
-![PlaceholderAPI](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
-![TownyAPI](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
-![Velocity](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
-![NPCLib](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
-![VaultAPI](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
-![ProtocolLib](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![Paper](https://img.shields.io/badge/-Paper-090909?style=for-the-badge&logo=Paper)
+![PlaceholderAPI](https://img.shields.io/badge/-PlaceholderAPI-090909?style=for-the-badge&logo=PlaceholderAPI)
+![TownyAPI](https://img.shields.io/badge/-TownyAPI-090909?style=for-the-badge&logo=TownyAPI)
+![Velocity](https://img.shields.io/badge/-Velocity-090909?style=for-the-badge&logo=Velocity)
+![NPCLib](https://img.shields.io/badge/-NPCLib-090909?style=for-the-badge&logo=NPCLib)
+![VaultAPI](https://img.shields.io/badge/-VaultAPI-090909?style=for-the-badge&logo=VaultAPI)
+![ProtocolLib](https://img.shields.io/badge/-ProtocolLib-090909?style=for-the-badge&logo=ProtocolLib)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
