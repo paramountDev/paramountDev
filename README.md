@@ -20,8 +20,16 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-090909?style=for-the-badge&logo=JUnit)
 ![Mockito](https://img.shields.io/badge/-Mockito-090909?style=for-the-badge&logo=Mockito)
 ![MapStruct](https://img.shields.io/badge/-MapStruct-090909?style=for-the-badge&logo=MapStruct)
+
 ![Bukkit](https://img.shields.io/badge/-Bukkit-090909?style=for-the-badge&logo=Bukkit)
 ![Spigot](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![Paper](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![PlaceholderAPI](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![TownyAPI](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![Velocity](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![NPCLib](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![VaultAPI](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
+![ProtocolLib](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
