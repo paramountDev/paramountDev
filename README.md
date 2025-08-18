@@ -1,11 +1,11 @@
 ![Header](https://i.postimg.cc/fWc6tmJd/1697271137370.jpg)
 
-## Hello, my name is Paramount Dev and i am a Java Developer.
+## ✅ Hey there, my name is ParamountDev and i am a Java Developer. ✅
 
-### Languages
+### ⬛Languages⬛
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=JAVA)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)
-### Tools
+### 🔧Tools🔧
 ![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=Maven)
 ![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring) 
@@ -20,7 +20,7 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-090909?style=for-the-badge&logo=JUnit)
 ![Mockito](https://img.shields.io/badge/-Mockito-090909?style=for-the-badge&logo=Mockito)
 ![MapStruct](https://img.shields.io/badge/-MapStruct-090909?style=for-the-badge&logo=MapStruct)
-### Plugin Development
+### 🟩Plugin Development🟩
 ![Bukkit](https://img.shields.io/badge/-Bukkit-090909?style=for-the-badge&logo=Bukkit)
 ![Spigot](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
 ![Paper](https://img.shields.io/badge/-Paper-090909?style=for-the-badge&logo=Paper)
@@ -35,14 +35,14 @@
 ![NMS](https://img.shields.io/badge/-NMS-090909?style=for-the-badge&logo=NMS)
 
 
-### Databases
+### 🏛️Databases🏛️
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![MySql](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
-### Source Controls
+### 📩Source Controls📩
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-### Tracking Systems
+### 👀Tracking Systems👀
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
-### Operational Systems
+### 🖥️Operational Systems🖥️
 ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
