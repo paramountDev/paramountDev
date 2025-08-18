@@ -1,4 +1,4 @@
-<img width="634" height="781" alt="image" src="https://github.com/user-attachments/assets/83b30ba4-48d8-459d-8891-21528e6dbad5" />![Header](https://i.postimg.cc/fWc6tmJd/1697271137370.jpg)
+![Header](https://i.postimg.cc/fWc6tmJd/1697271137370.jpg)
 
 ## Hello, my name is Paramount Dev and i am a Java Developer.
 
