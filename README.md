@@ -1,4 +1,4 @@
-![Header](https://i.postimg.cc/fWc6tmJd/1697271137370.jpg)
+<img width="634" height="781" alt="image" src="https://github.com/user-attachments/assets/83b30ba4-48d8-459d-8891-21528e6dbad5" />![Header](https://i.postimg.cc/fWc6tmJd/1697271137370.jpg)
 
 ## Hello, my name is Paramount Dev and i am a Java Developer.
 
@@ -20,7 +20,7 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-090909?style=for-the-badge&logo=JUnit)
 ![Mockito](https://img.shields.io/badge/-Mockito-090909?style=for-the-badge&logo=Mockito)
 ![MapStruct](https://img.shields.io/badge/-MapStruct-090909?style=for-the-badge&logo=MapStruct)
-
+### Plugin Development
 ![Bukkit](https://img.shields.io/badge/-Bukkit-090909?style=for-the-badge&logo=Bukkit)
 ![Spigot](https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot)
 ![Paper](https://img.shields.io/badge/-Paper-090909?style=for-the-badge&logo=Paper)
@@ -30,6 +30,10 @@
 ![NPCLib](https://img.shields.io/badge/-NPCLib-090909?style=for-the-badge&logo=NPCLib)
 ![VaultAPI](https://img.shields.io/badge/-VaultAPI-090909?style=for-the-badge&logo=VaultAPI)
 ![ProtocolLib](https://img.shields.io/badge/-ProtocolLib-090909?style=for-the-badge&logo=ProtocolLib)
+![ImageAPI](https://img.shields.io/badge/-ImageAPI-090909?style=for-the-badge&logo=ImageAPI)
+![NPC-lib](https://img.shields.io/badge/-NPC-lib-090909?style=for-the-badge&logo=NPC-lib)
+![NMS](https://img.shields.io/badge/-NMS-090909?style=for-the-badge&logo=NMS)
+
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
