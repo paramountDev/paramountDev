@@ -31,7 +31,7 @@
 ![VaultAPI](https://img.shields.io/badge/-VaultAPI-090909?style=for-the-badge&logo=VaultAPI)
 ![ProtocolLib](https://img.shields.io/badge/-ProtocolLib-090909?style=for-the-badge&logo=ProtocolLib)
 ![ImageAPI](https://img.shields.io/badge/-ImageAPI-090909?style=for-the-badge&logo=ImageAPI)
-![NPC-lib](https://img.shields.io/badge/-NPC-lib-090909?style=for-the-badge&logo=NPC-lib)
+![NPC-lib](https://img.shields.io/badge/-NPClib-090909?style=for-the-badge&logo=NPClib)
 ![NMS](https://img.shields.io/badge/-NMS-090909?style=for-the-badge&logo=NMS)
 
 
