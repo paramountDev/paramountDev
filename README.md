@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/-VaultAPI-090909?style=for-the-badge&logo=VaultAPI" />
   <img src="https://img.shields.io/badge/-ProtocolLib-090909?style=for-the-badge&logo=ProtocolLib" />
   <img src="https://img.shields.io/badge/-ImageAPI-090909?style=for-the-badge&logo=ImageAPI" />
-  <img src="https://img.shields.io/badge/-NPCLib-090909?style=for-the-badge&logo=NPClib" />
   <img src="https://img.shields.io/badge/-NMS-090909?style=for-the-badge&logo=NMS" />
 </p>
 
