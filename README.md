@@ -31,7 +31,7 @@
 </p>
 
 
-<h2 align="center">🟩 Plugin Development 🟩</h2>
+<h2 align="center">🟩 Minecraft Development 🟩</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Bukkit-090909?style=for-the-badge&logo=Bukkit" />
   <img src="https://img.shields.io/badge/-Spigot-090909?style=for-the-badge&logo=Spigot" />
