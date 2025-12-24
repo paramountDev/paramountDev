@@ -46,6 +46,16 @@
   <img src="https://img.shields.io/badge/-NMS-090909?style=for-the-badge&logo=NMS" />
 </p>
 
+<h2 align="center">🤖 Telegram Development 🤖</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Telegram_Bots-090909?style=for-the-badge&logo=Telegram" />
+  <img src="https://img.shields.io/badge/-Telegram_Mini_Apps-090909?style=for-the-badge&logo=Telegram&logoColor=29a9ea" />
+  <img src="https://img.shields.io/badge/-Bot_API-090909?style=for-the-badge&logo=Telegram" />
+  <img src="https://img.shields.io/badge/-AI_Integration-090909?style=for-the-badge&logo=OpenAI" />
+  <img src="https://img.shields.io/badge/-Payment_Systems-090909?style=for-the-badge&logo=Stripe" />
+  <img src="https://img.shields.io/badge/-Webhooks-090909?style=for-the-badge&logo=Nginx" />
+</p>
+
 
 <h2 align="center">🏛️ Databases 🏛️</h2>
 <p align="center">
