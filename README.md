@@ -12,7 +12,7 @@
 </p>
 
 
-<h2 align="center">🔧 Tools 🔧</h2>
+<h2 align="center">🔧 Java Development 🔧</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=Maven" />
   <img src="https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle" />
